@@ -36,6 +36,9 @@
 -   **India Vaccine** | [Github](https://github.com/IndiaVaccineIN/india-vaccine-frontend)
 
 ## Learning Projects
+-   **DOM-Challenges** | [Github](https://github.com/chavda-bhavik/dom-challenges)
+
+    Dom Challenges to practise HTML, CSS and JavaScript.
 
 -   **CrazyGithubLinks** | [Github](https://github.com/chavda-bhavik/CrazyGithubLinks)
 
