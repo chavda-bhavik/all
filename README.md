@@ -32,6 +32,7 @@
 
 ## Open Source Contributions
 
+-   **novu** | [Github](https://github.com/novuhq/novu)
 -   **teleport-code-generators** | [Github](https://github.com/teleporthq/teleport-code-generators)
 -   **India Vaccine** | [Github](https://github.com/IndiaVaccineIN/india-vaccine-frontend)
 
